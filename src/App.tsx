@@ -1,4 +1,5 @@
 import MyComponent from "./Props.tsx"
+// import { MyComponent } from "./Props.tsx"
 
 function App() {
   return (
